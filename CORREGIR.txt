@@ -1,2 +1,6 @@
-Respawn:- Third Preson Game = Gestion de respawn
+Respawn Player:
+	- Third Preson Game = Gestion de respawn
 	- Third person character = Opcion a muerte y seleccion de espawn
+Obstaculo 2: 
+	- BP_Cannon = Spawn de balas
+	- BP_Ball = Asesinato del player
