@@ -11,3 +11,9 @@ Obstaculo 5:
 	- BP_JumpPlataform = Tiene la variable para modificar la potencia a gusto desde inspector
 Obstaculo 7;
 	- BP_RotatingPlatform = Puedes modificar la velocidad desde inspector
+PowerUps
+Jetpack:
+	- BP_Third Person Character =
+		=Activar y desactibar jetpack
+		=Salto modificado para que funcione el jetpack
+		=Posibilidad de usarlo con un bool
