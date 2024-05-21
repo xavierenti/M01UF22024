@@ -3236,3 +3236,170 @@ Script Stack (0 frames) :
 [2024.05.21-20.39.00:681][294]LogContentValidation: Display: Validating /Game/ZonasMapaPutadas/BP_Cannon.BP_Cannon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cannon_C_UAID_00D861A6689DD4F701_2080093318
 [2024.05.21-20.39.00:681][294]LogContentValidation: Display: Validating /Game/ZonasMapaPutadas/BP_Cannon.BP_Cannon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cannon_C_UAID_00D861A6689DD4F701_2116160321
 [2024.05.21-20.39.21:568][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.21-20.41.51:261][712]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.21-20.41.51:269][712]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.21-20.41.51:276][712]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.21-20.41.51:286][713]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.21-20.41.59:156][637]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_JumpPlataform
+[2024.05.21-20.41.59:163][637]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.21-20.42.01:120][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform
+[2024.05.21-20.42.01:120][853]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-20.42.01:120][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-20.42.01:232][853]LogViewport: Scene viewport resized to 1141x703, mode Windowed.
+[2024.05.21-20.42.01:279][854]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2024.05.21-20.42.08:279][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-20.42.19:720][997]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2024.05.21-20.42.36:132][925]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.21-20.43.36:599][912]BlueprintLog: New page: Compile BP_JumpPlataform
+[2024.05.21-20.43.36:641][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.21-20.43.40:172][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-20.43.40:211][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZonasMapaPutadas/BP_JumpPlataform" FILE="E:/enti/Puta/M01UF22024/Saltando_Boy/Content/ZonasMapaPutadas/BP_JumpPlataform.uasset" SILENT=true
+[2024.05.21-20.43.40:214][319]LogSavePackage: Moving output files for package: /Game/ZonasMapaPutadas/BP_JumpPlataform
+[2024.05.21-20.43.40:214][319]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/BP_JumpPlataformEF803CBE405A6D965E454C8813BBF068.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/ZonasMapaPutadas/BP_JumpPlataform.uasset'
+[2024.05.21-20.43.40:223][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.39 sec)
+[2024.05.21-20.43.40:228][319]AssetCheck: New page: Asset Save: BP_JumpPlataform
+[2024.05.21-20.43.40:228][319]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform
+[2024.05.21-20.44.34:360][655]BlueprintLog: New page: Compile BP_JumpPlataform
+[2024.05.21-20.44.34:397][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.21-20.44.39:713][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-20.44.39:778][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZonasMapaPutadas/BP_JumpPlataform" FILE="E:/enti/Puta/M01UF22024/Saltando_Boy/Content/ZonasMapaPutadas/BP_JumpPlataform.uasset" SILENT=true
+[2024.05.21-20.44.39:782][278]LogSavePackage: Moving output files for package: /Game/ZonasMapaPutadas/BP_JumpPlataform
+[2024.05.21-20.44.39:782][278]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/BP_JumpPlataformFCFB783C46CCC7B1C7B090950A7BC60B.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/ZonasMapaPutadas/BP_JumpPlataform.uasset'
+[2024.05.21-20.44.39:789][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.47 sec)
+[2024.05.21-20.44.39:795][278]AssetCheck: New page: Asset Save: BP_JumpPlataform
+[2024.05.21-20.44.39:795][278]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform
+[2024.05.21-20.44.41:797][517]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-20.44.41:797][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-20.44.43:174][674]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.21-20.44.43:174][674]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-20.44.43:174][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-20.44.54:267][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.21-20.44.59:058][513]Cmd: DELETE
+[2024.05.21-20.44.59:058][513]Cmd: ACTOR DELETE
+[2024.05.21-20.44.59:060][513]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.21-20.44.59:083][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.21-20.44.59:086][513]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.05.21-20.44.59:665][571]Cmd: DELETE
+[2024.05.21-20.44.59:665][571]Cmd: ACTOR DELETE
+[2024.05.21-20.44.59:667][571]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.21-20.44.59:688][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.05.21-20.44.59:690][571]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.05.21-20.45.01:716][785]Cmd: DELETE
+[2024.05.21-20.45.01:716][785]Cmd: ACTOR DELETE
+[2024.05.21-20.45.01:716][785]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.05.21-20.45.01:718][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.21-20.45.01:739][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.21-20.45.01:742][785]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.05.21-20.45.06:870][362]Cmd: DELETE
+[2024.05.21-20.45.06:870][362]Cmd: ACTOR DELETE
+[2024.05.21-20.45.06:871][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.21-20.45.06:894][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.21-20.45.06:897][362]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.05.21-20.45.07:747][452]Cmd: DELETE
+[2024.05.21-20.45.07:747][452]Cmd: ACTOR DELETE
+[2024.05.21-20.45.07:749][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.21-20.45.07:771][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.21-20.45.07:774][452]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.05.21-20.45.08:589][538]Cmd: DELETE
+[2024.05.21-20.45.08:589][538]Cmd: ACTOR DELETE
+[2024.05.21-20.45.08:590][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.21-20.45.08:612][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.21-20.45.08:615][538]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.05.21-20.45.11:620][842]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform_C
+[2024.05.21-20.45.11:620][842]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform_C
+[2024.05.21-20.45.11:622][842]LogActorFactory: Actor Factory spawned Blueprint /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform as actor: BP_JumpPlataform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_JumpPlataform_C_0
+[2024.05.21-20.45.11:623][842]LogActorFactory: Actor Factory spawned Blueprint /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform as actor: BP_JumpPlataform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_JumpPlataform_C_0
+[2024.05.21-20.45.13:944][ 89]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform_C
+[2024.05.21-20.45.13:944][ 89]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform_C
+[2024.05.21-20.45.13:945][ 89]LogActorFactory: Actor Factory spawned Blueprint /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform as actor: BP_JumpPlataform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_JumpPlataform_C_UAID_00D861A6689DD7F701_1346000852
+[2024.05.21-20.45.13:947][ 89]LogActorFactory: Actor Factory spawned Blueprint /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform as actor: BP_JumpPlataform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_JumpPlataform_C_UAID_00D861A6689DD7F701_1346000852
+[2024.05.21-20.45.23:782][175]Cmd: EDIT COPY
+[2024.05.21-20.45.23:782][175]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.05.21-20.45.24:027][202]Cmd: EDIT PASTE
+[2024.05.21-20.45.24:052][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.21-20.45.26:662][495]Cmd: EDIT COPY
+[2024.05.21-20.45.26:903][521]Cmd: EDIT PASTE
+[2024.05.21-20.45.26:931][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.21-20.46.05:419][916]BlueprintLog: New page: Compile BP_JumpPlataform
+[2024.05.21-20.46.05:477][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.21-20.46.15:419][ 64]BlueprintLog: New page: Compile BP_JumpPlataform
+[2024.05.21-20.46.15:466][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.21-20.46.16:868][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-20.46.16:922][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZonasMapaPutadas/BP_JumpPlataform" FILE="E:/enti/Puta/M01UF22024/Saltando_Boy/Content/ZonasMapaPutadas/BP_JumpPlataform.uasset" SILENT=true
+[2024.05.21-20.46.16:926][215]LogSavePackage: Moving output files for package: /Game/ZonasMapaPutadas/BP_JumpPlataform
+[2024.05.21-20.46.16:926][215]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/BP_JumpPlataform32581A9D404C5496DE9347B7020FF54D.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/ZonasMapaPutadas/BP_JumpPlataform.uasset'
+[2024.05.21-20.46.16:934][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.54 sec)
+[2024.05.21-20.46.16:940][215]AssetCheck: New page: Asset Save: BP_JumpPlataform
+[2024.05.21-20.46.16:940][215]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform
+[2024.05.21-20.47.00:950][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.21-20.47.00:954][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZY/94EPES2EOEU55GD2SEJI0B_Auto6
+[2024.05.21-20.47.00:954][ 68]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/94EPES2EOEU55GD2SEJI0B_Auto6755A4BAF4815948A9EF0C7B58A72F6E5.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZY/94EPES2EOEU55GD2SEJI0B_Auto6.uasset'
+[2024.05.21-20.47.00:958][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GA/YTXZAATTBIQL8I1SOBB92P_Auto6
+[2024.05.21-20.47.00:958][ 68]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/YTXZAATTBIQL8I1SOBB92P_Auto6CE54B1B1404C4E0098CA7195ED324477.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GA/YTXZAATTBIQL8I1SOBB92P_Auto6.uasset'
+[2024.05.21-20.47.00:961][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XC/VOW5OM46MGS45Y7CIM3ND1_Auto6
+[2024.05.21-20.47.00:961][ 68]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/VOW5OM46MGS45Y7CIM3ND1_Auto6DD6067494EA41509BF9FAAA36338CCC4.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XC/VOW5OM46MGS45Y7CIM3ND1_Auto6.uasset'
+[2024.05.21-20.47.00:961][ 68]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.05.21-20.47.00:961][ 68]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2024.05.21-20.48.12:487][783]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.21-20.48.12:496][783]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.21-20.48.12:503][783]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.21-20.48.12:513][784]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.21-20.48.24:489][216]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_RotatingPlatform
+[2024.05.21-20.48.24:494][216]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.21-20.48.26:118][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform
+[2024.05.21-20.48.26:119][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-20.48.26:119][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-20.48.26:242][407]LogViewport: Scene viewport resized to 1141x700, mode Windowed.
+[2024.05.21-20.48.26:286][408]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2024.05.21-20.48.31:516][710]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-20.48.47:119][550]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2024.05.21-20.51.24:530][623]BlueprintLog: New page: Compile BP_RotatingPlatform
+[2024.05.21-20.51.24:570][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.21-20.52.30:325][447]BlueprintLog: New page: Compile BP_RotatingPlatform
+[2024.05.21-20.52.30:376][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.05.21-20.52.31:261][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-20.52.31:319][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZonasMapaPutadas/BP_RotatingPlatform" FILE="E:/enti/Puta/M01UF22024/Saltando_Boy/Content/ZonasMapaPutadas/BP_RotatingPlatform.uasset" SILENT=true
+[2024.05.21-20.52.31:324][548]LogSavePackage: Moving output files for package: /Game/ZonasMapaPutadas/BP_RotatingPlatform
+[2024.05.21-20.52.31:324][548]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/BP_RotatingPlatform1395148C41AC27B389131BB715527928.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/ZonasMapaPutadas/BP_RotatingPlatform.uasset'
+[2024.05.21-20.52.31:334][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.61 sec)
+[2024.05.21-20.52.31:339][548]AssetCheck: New page: Asset Save: BP_RotatingPlatform
+[2024.05.21-20.52.31:339][548]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform
+[2024.05.21-20.52.42:464][773]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2024.05.21-20.52.42:464][773]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2024.05.21-20.52.42:465][773]LogActorFactory: Actor Factory spawned Blueprint /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_RotatingPlatform_C_0
+[2024.05.21-20.52.42:466][773]LogActorFactory: Actor Factory spawned Blueprint /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_RotatingPlatform_C_0
+[2024.05.21-20.52.44:623][973]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2024.05.21-20.52.44:623][973]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2024.05.21-20.52.44:624][973]LogActorFactory: Actor Factory spawned Blueprint /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_RotatingPlatform_C_UAID_00D861A6689DD7F701_1796679855
+[2024.05.21-20.52.44:625][973]LogActorFactory: Actor Factory spawned Blueprint /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_RotatingPlatform_C_UAID_00D861A6689DD7F701_1796679855
+[2024.05.21-20.52.52:831][912]Cmd: EDIT COPY
+[2024.05.21-20.52.53:079][940]Cmd: EDIT PASTE
+[2024.05.21-20.52.53:105][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.21-20.53.02:624][  5]Cmd: EDIT COPY
+[2024.05.21-20.53.02:831][ 28]Cmd: EDIT PASTE
+[2024.05.21-20.53.02:863][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.21-20.53.58:155][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.21-20.53.58:159][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-20.53.58:212][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.21-20.53.58:233][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.21-20.53.58:253][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.05.21-20.53.58:257][110]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZY/94EPES2EOEU55GD2SEJI0B
+[2024.05.21-20.53.58:257][110]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/94EPES2EOEU55GD2SEJI0B6C2B2E054BC4CEF990AC569DE3D6300F.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZY/94EPES2EOEU55GD2SEJI0B.uasset'
+[2024.05.21-20.53.58:261][110]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GA/YTXZAATTBIQL8I1SOBB92P
+[2024.05.21-20.53.58:261][110]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/YTXZAATTBIQL8I1SOBB92P0842693644C0819C123F048FB1023D48.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GA/YTXZAATTBIQL8I1SOBB92P.uasset'
+[2024.05.21-20.53.58:263][110]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XC/VOW5OM46MGS45Y7CIM3ND1
+[2024.05.21-20.53.58:263][110]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/VOW5OM46MGS45Y7CIM3ND1D5D9BD884CA9EFF501682F85F03180B2.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XC/VOW5OM46MGS45Y7CIM3ND1.uasset'
+[2024.05.21-20.53.58:265][110]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HG/IO6DQV0ZIVCZ9CHSTSVTOU
+[2024.05.21-20.53.58:265][110]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/IO6DQV0ZIVCZ9CHSTSVTOU89F5457746B94EDE7EFDB2BEA50131B2.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HG/IO6DQV0ZIVCZ9CHSTSVTOU.uasset'
+[2024.05.21-20.53.58:267][110]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/L4/SBA2VTEM0WYYUIXSU30R8C
+[2024.05.21-20.53.58:267][110]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/SBA2VTEM0WYYUIXSU30R8CD72B9A0346CCA5CB11F05984603FB63A.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/L4/SBA2VTEM0WYYUIXSU30R8C.uasset'
+[2024.05.21-20.53.58:269][110]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4J/Z9VD9V6QOL4QQIONTV0VUI
+[2024.05.21-20.53.58:269][110]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/Z9VD9V6QOL4QQIONTV0VUIDE3192334C987A541EEBCC8BC00193BB.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4J/Z9VD9V6QOL4QQIONTV0VUI.uasset'
+[2024.05.21-20.53.58:290][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 1.74 sec)
+[2024.05.21-20.53.58:296][110]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.21-20.53.58:296][110]LogContentValidation: Display: Validating /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_RotatingPlatform_C_UAID_00D861A6689DD7F701_1805135856
+[2024.05.21-20.53.58:296][110]LogContentValidation: Display: Validating /Game/ZonasMapaPutadas/BP_RotatingPlatform.BP_RotatingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_RotatingPlatform_C_UAID_00D861A6689DD7F701_1796679855
+[2024.05.21-20.53.58:296][110]LogContentValidation: Display: Validating /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_JumpPlataform_C_UAID_00D861A6689DD7F701_1358960854
+[2024.05.21-20.53.58:296][110]LogContentValidation: Display: Validating /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_JumpPlataform_C_UAID_00D861A6689DD7F701_1356083853
+[2024.05.21-20.53.58:296][110]LogContentValidation: Display: Validating /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_JumpPlataform_C_UAID_00D861A6689DD7F701_1346000852
+[2024.05.21-20.53.58:296][110]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00D861A6689DD7F701_1814888857
