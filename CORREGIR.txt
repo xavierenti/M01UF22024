@@ -1,0 +1,2 @@
+Respawn:- Third Preson Game = Gestion de respawn
+	- Third person character = Opcion a muerte y seleccion de espawn
