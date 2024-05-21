@@ -17,3 +17,7 @@ Jetpack:
 		=Activar y desactibar jetpack
 		=Salto modificado para que funcione el jetpack
 		=Posibilidad de usarlo con un bool
+Boots
+	- BP_Third Person Character =
+		=Actibacion de Botas
+		=Movement input + Branch * 1.5
