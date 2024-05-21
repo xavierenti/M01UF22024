@@ -3403,3 +3403,20 @@ Script Stack (0 frames) :
 [2024.05.21-20.53.58:296][110]LogContentValidation: Display: Validating /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_JumpPlataform_C_UAID_00D861A6689DD7F701_1356083853
 [2024.05.21-20.53.58:296][110]LogContentValidation: Display: Validating /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_JumpPlataform_C_UAID_00D861A6689DD7F701_1346000852
 [2024.05.21-20.53.58:296][110]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00D861A6689DD7F701_1814888857
+[2024.05.21-20.58.19:615][380]BlueprintLog: New page: Compile BP_JumpPlataform
+[2024.05.21-20.58.19:658][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.21-20.58.47:380][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.21-20.58.47:383][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZY/94EPES2EOEU55GD2SEJI0B_Auto7
+[2024.05.21-20.58.47:383][610]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/94EPES2EOEU55GD2SEJI0B_Auto7CA48251C49140FB7391175A30861DFB8.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZY/94EPES2EOEU55GD2SEJI0B_Auto7.uasset'
+[2024.05.21-20.58.47:384][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GA/YTXZAATTBIQL8I1SOBB92P_Auto7
+[2024.05.21-20.58.47:384][610]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/YTXZAATTBIQL8I1SOBB92P_Auto7E3203C1040B52A4A17BD89BC0C7D6BAB.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GA/YTXZAATTBIQL8I1SOBB92P_Auto7.uasset'
+[2024.05.21-20.58.47:388][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XC/VOW5OM46MGS45Y7CIM3ND1_Auto7
+[2024.05.21-20.58.47:388][610]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/VOW5OM46MGS45Y7CIM3ND1_Auto7ACD7385E44F8795119348DB1A8AB3949.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XC/VOW5OM46MGS45Y7CIM3ND1_Auto7.uasset'
+[2024.05.21-20.58.47:389][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2024.05.21-20.58.47:389][610]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2024.05.21-20.58.47:389][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ZonasMapaPutadas/BP_JumpPlataform] ([2] browsable assets)...
+[2024.05.21-20.58.47:411][610]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ZonasMapaPutadas/BP_JumpPlataform.BP_JumpPlataform]
+[2024.05.21-20.58.47:411][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZonasMapaPutadas/BP_JumpPlataform]
+[2024.05.21-20.58.47:415][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZonasMapaPutadas/BP_JumpPlataform_Auto7
+[2024.05.21-20.58.47:415][610]LogSavePackage: Moving 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/BP_JumpPlataform_Auto712DCE5F641B3F43F33717AA542815F18.tmp' to 'E:/enti/Puta/M01UF22024/Saltando_Boy/Saved/Autosaves/Game/ZonasMapaPutadas/BP_JumpPlataform_Auto7.uasset'
+[2024.05.21-20.58.47:415][610]LogFileHelpers: Auto-saving content packages took 0.026

@@ -1,6 +1,13 @@
 Respawn Player:
 	- Third Preson Game = Gestion de respawn
 	- Third person character = Opcion a muerte y seleccion de espawn
+Zona Mapa Putadas
 Obstaculo 2: 
 	- BP_Cannon = Spawn de balas
 	- BP_Ball = Asesinato del player
+Obstaculo 3:
+	- BP_MovementPlataform = En ConstructionScript
+Obstaculo 5:
+	- BP_JumpPlataform = Tiene la variable para modificar la potencia a gusto desde inspector
+Obstaculo 7;
+	- BP_RotatingPlatform = Puedes modificar la velocidad desde inspector
