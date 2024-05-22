@@ -21,3 +21,11 @@ Boots
 	- BP_Third Person Character =
 		=Actibacion de Botas
 		=Movement input + Branch * 1.5
+Door
+	- BP_Door=
+		=Cantidad de llabes
+		=Reiniciar Game y lop temopral
+		=Condicion de victoria
+		=inicio de minipuzle
+	- BP_Key
+		=Colisiones y actibar Codigos
